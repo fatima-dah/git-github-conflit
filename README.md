@@ -1,2 +1,2 @@
-# git-github-conflit
+REMOTE
 bonjour comment va tu?
